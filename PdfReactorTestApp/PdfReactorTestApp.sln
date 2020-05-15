@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfReactorTestApp", "PdfReactorTestApp\PdfReactorTestApp.csproj", "{AF51D11C-9F63-4716-9810-B1E8312D80C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF51D11C-9F63-4716-9810-B1E8312D80C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF51D11C-9F63-4716-9810-B1E8312D80C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF51D11C-9F63-4716-9810-B1E8312D80C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF51D11C-9F63-4716-9810-B1E8312D80C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2232CE3F-5764-43DB-9CF5-914372D76E26}
+	EndGlobalSection
+EndGlobal
